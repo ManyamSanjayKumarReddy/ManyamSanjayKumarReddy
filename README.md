@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fdel5-2.fna.fbcdn.net/v/t39.30808-6/p960x960/255265916_124072470029497_3590132167066118204_n.png?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=3wXleWYJtRgAX_wFmdb&_nc_ht=scontent.fdel5-2.fna&oh=42ee14a136b314e508daa9f21931ba08&oe=61907849)](https://github.com/ManyamSanjayKumarReddy)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFvJji9FeVtLw/profile-displaybackgroundimage-shrink_350_1400/0/1636540734439?e=1642032000&v=beta&t=tYXxrkRi0iFGfY36Zt1SAMMphHO8KDOjkFua2dAFG7o)](https://github.com/ManyamSanjayKumarReddy)
 
 
 <h1 align="center">Hi 👋, I'm Manyam Sanjay Kumar Reddy</h1>
