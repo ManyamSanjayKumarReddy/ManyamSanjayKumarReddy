@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFvJji9FeVtLw/profile-displaybackgroundimage-shrink_350_1400/0/1636540734439?e=1642032000&v=beta&t=tYXxrkRi0iFGfY36Zt1SAMMphHO8KDOjkFua2dAFG7o)](https://github.com/ManyamSanjayKumarReddy)
+
 
 
 <h1 align="center">Hi 👋, I'm Manyam Sanjay Kumar Reddy</h1>
