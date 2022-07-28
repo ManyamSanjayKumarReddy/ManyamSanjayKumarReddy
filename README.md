@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Manyam Sanjay Kumar Reddy</h1>
-<h3 align="center">Founder of Tutorials with Sanju</h3>
+<h3 align="center">Founder of Tutorials with Sanju |Edtech Company</h3>
 
 <p align="left"> <img src="https://tutorialswithsanju.netlify.app/images/Tutorials%20with%20Sanju.png" alt="manyamsanjaykumarreddy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manyamsanjay" target="blank"><img src="https://img.shields.io/twitter/follow/manyamsanjay?logo=twitter&style=for-the-badge" alt="manyamsanjay" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Development**
+- 🔭 I’m currently working on **React Native Apps**
 
 - 🌱 I’m currently learning **Data Science**
 
