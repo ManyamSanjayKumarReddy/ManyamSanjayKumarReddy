@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manyamsanjay" target="blank"><img src="https://img.shields.io/twitter/follow/manyamsanjay?logo=twitter&style=for-the-badge" alt="manyamsanjay" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Apps**
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Data Science**
 
