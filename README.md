@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Manyam Sanjay Kumar Reddy</h1>
 <h3 align="center">Founder & CEO of Totelligence </h3>
 
-<p align="left"> <img src="https://tutorialswithsanju.netlify.app/images/Tutorials%20with%20Sanju.png" alt="manyamsanjaykumarreddy" /> </p>
+<p align="left"> <img src="[https://tutorialswithsanju.netlify.app/images/Tutorials%20with%20Sanju.png](https://tws.org.in/images/Banner.png)" alt="manyamsanjaykumarreddy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manyamsanjay" target="blank"><img src="https://img.shields.io/twitter/follow/manyamsanjay?logo=twitter&style=for-the-badge" alt="manyamsanjay" /></a> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Spring Boot Applications**
 
 - 🌱 I’m currently learning **Data Science**
 
