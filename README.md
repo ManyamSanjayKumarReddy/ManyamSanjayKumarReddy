@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Manyam Sanjay Kumar Reddy</h1>
-<h3 align="center">Founder & CEO of Totelligence </h3>
+
 
 <p align="left"> <img src="https://totelligence.in/images/alpha%20batch%20banner.png" alt="manyamsanjaykumarreddy" /> </p>
 
