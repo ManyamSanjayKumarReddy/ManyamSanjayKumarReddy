@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Manyam Sanjay Kumar Reddy</h1>
 
 
-<p align="left"> <img src="[https://media.licdn.com/dms/image/D5616AQE6d51TQC98QQ/profile-displaybackgroundimage-shrink_350_1400/0/1713520030833?e=1728518400&v=beta&t=ckIttwMfpUkTza-3vRbb3aXXpeES6iQCJ6ERrCrxHKE](https://media.licdn.com/dms/image/v2/D5616AQE6d51TQC98QQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1713520030833?e=1773273600&v=beta&t=xQJsZhTVzENVXNIngbbcEbKu2frGq73e6mUG-mZlQGU)" alt="manyamsanjaykumarreddy" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5616AQE6d51TQC98QQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1713520030833?e=1773273600&v=beta&t=xQJsZhTVzENVXNIngbbcEbKu2frGq73e6mUG-mZlQGU" alt="manyamsanjaykumarreddy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manyamsanjay" target="blank"><img src="https://img.shields.io/twitter/follow/manyamsanjay?logo=twitter&style=for-the-badge" alt="manyamsanjay" /></a> </p>
 
